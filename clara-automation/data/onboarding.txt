@@ -1,0 +1,5 @@
+The company now operates 24/7.
+
+Emergency sprinkler leaks must be routed immediately.
+
+If transfer fails after 60 seconds dispatch should be notified.
